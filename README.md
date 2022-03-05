@@ -25,7 +25,6 @@
   <a href="https://avatars.githubusercontent.com/u/58118658?v=4" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://pycaret.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/58118658?s=400&v=4" alt="pycaret" width="40" height="40"/> </a> 
 
-
 <br>
 
 <h3 align="left">Languages and Tools In Web Develop</h3>
@@ -38,10 +37,11 @@
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhVnC_S9xCgdn0wiMH3udwmtbud-L8c0d_2w&usqp=CAU" alt="django" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EiC6rWPtkI3aY_bJ7iYfjHP4TTrkHwVoU5LEEpg5_QSsrEPYF4SvygJBaTgaxeg1DH8&usqp=CAU" alt="spring" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vue" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com/" target="_blank"> <img src="https://api.nuget.org/v3-flatcontainer/libsassbuilder/2.0.1/icon" alt="sass" width="40" height="40"/> </a>
-  <a href="https://ko.wikipedia.org/wiki/%EC%9B%B9%EC%86%8C%EC%BC%93" target="_blank"> <img src="https://www.outsystems.com/Forge_BL/rest/ComponentThumbnail/GetURL_ComponentThumbnail?ProjectImageId=17523" alt="websocket" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="sass" width="40" height="40"/> </a>
+  <a href="https://ko.wikipedia.org/wiki/%EC%9B%B9%EC%86%8C%EC%BC%93" target="_blank"> <img src="https://coconutgroup.io/img/websocket-icon.png" alt="websocket" width="40" height="40"/> </a>
   <a href="https://openvidu.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/22744124?s=280&v=4" alt="openvidu" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
 
 
 
