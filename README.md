@@ -7,7 +7,7 @@
 - 🔭 Now I'm studying **Web Develop at SSAFY**
 - 🌱 I’m currently interested in **Backend with Spring** and **Recommendation Algorithms**.      
 - 👯 I've studied Statistic and Data Analysis at Pusan National University for 5 years and I've studied Algorithm, Front-end and Back-end at SSAFY for about 1 year.
-- 📝 I regularly write articles on [Notion](https://www.notion.so/8f0e868d82d64ff0aca2a732f466b7aa)
+- 📝 I regularly write articles on [Notion](https://www.notion.so/JaehoJeong-s-Notion-8c3c6fc784974362991de45042b54ff0)
 
 
 
